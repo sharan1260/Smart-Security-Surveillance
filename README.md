@@ -1,7 +1,7 @@
 The face is one of the easiest ways to distinguish the individual identity of each other. Face recognition is a personal identification system that uses personal characteristics of a personto identify the 
 person's identity. Human face recognition procedure basically consists of two phases, namely face detection, where this process takes place very rapidly in humans, except under conditionswhere the object is 
 located at a short distance away, the next is the introduction, which recognize a face as individuals. Stage is then replicated and developed as a model for facialimage recognition (face recognition) is one 
-of the muchstudied biometrics technology and developed by experts. There are two kinds of methods that are currently popular in developed face recognition pattern namely, Eigenface method and Fisherface 
+of the much studied biometrics technology and developed by experts. There are two kinds of methods that are currently popular in developed face recognition pattern namely, Eigenface method and Fisherface 
 method. Facial image recognition Eigenface method is based on the reduction of facedimensional space using PrincipalComponent Analysis (PCA) for facial features. The main purpose of the use of PCA on face 
 recognition using Eigen faces was formed (face space) by finding the eigenvector correspondingto the largest eigenvalue of the face image. The area of this project face detection system with face recognition 
 is Image processing. The software requirements for this project is MATLAB software.
